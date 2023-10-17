@@ -1,0 +1,11 @@
+# Ignore config
+config.json
+
+# Idea
+.idea/
+
+# Pycache
+__pycache__/
+
+# Log
+log.txt
